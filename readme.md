@@ -55,6 +55,11 @@ Variante A – minimal:
 pip install typer
 ```
 
+Variante B – CLI plus NiceGUI:
+```bash
+pip install -r requirements.txt
+```
+
 ---
 
 ## Start
@@ -69,6 +74,17 @@ Menüoptionen:
 3) **Sudoku generieren & spielen**
 4) **Spielen: aus Datei oder Seed** (Untermenü)
 5) Beenden
+
+### NiceGUI starten
+```bash
+python nicegui_app.py
+```
+Danach im Browser oeffnen:
+```text
+http://localhost:8080
+```
+
+Die UI nutzt dieselbe Generator-, Solver- und Import/Export-Logik wie die CLI.
 
 ---
 
@@ -163,4 +179,3 @@ Beispiel:
 
 ## Lizenz
 MIT – siehe `LICENSE`.
-
