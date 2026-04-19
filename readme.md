@@ -2,7 +2,7 @@
 
 Ein schlankes Sudoku-Tool als **Typer-CLI**: Puzzles **lösen**, **generieren**, **spielen** – mit Seed-Unterstützung, Import/Export und hübscher Terminal-Ausgabe.
 
-(von chat gpt nach meinen Vorgaben generiert)
+(von Chat-GPT nach meinen Vorgaben generiert, um die Coding-Qualität von Chat-GPT zu prüfen)
 
 ![status](https://img.shields.io/badge/python-3.9%2B-blue) ![license](https://img.shields.io/badge/license-MIT-lightgrey)
 
